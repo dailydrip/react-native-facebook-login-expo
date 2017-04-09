@@ -1,7 +1,7 @@
 ## Expo Facebook Login
 
 
-![Exponent](Exponent.png)
+![Exponent](https://raw.githubusercontent.com/dailydrip/react-native-facebook-login-expo/276b59f76b8db45e791a50e1c2ff43934d7530c5/Exponent.png)
 
 
 
